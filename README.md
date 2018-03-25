@@ -1,3 +1,6 @@
 # emberConf-2018
 
-* you'll need to install the fonts in the fonts folder (sorry, I tried to save with them embedded but it never seems to work)
+## notes 
+- you'll need to install the fonts in the fonts folder
+- The PDF version contains the notes too
+- the slideshow itself isn't very accessible at all- definitely recommend viewing the PDF instead. 
