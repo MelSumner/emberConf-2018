@@ -6,3 +6,4 @@
   - One PDF version contains the speaker notes
   - The other PDF contains the slideshow only
 
+Link to slides on speakerdeck: https://speakerdeck.com/melsumner/ambitious-for-all-slides-only 
